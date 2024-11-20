@@ -1,0 +1,20 @@
+[
+    {
+        "Name": "Laptop",
+        "Price": 1000,
+        "Description": "A high-performance laptop.",
+        "Stock": 50
+    },
+    {
+        "Name": "Smartphone",
+        "Price": 500,
+        "Description": "A feature-packed smartphone.",
+        "Stock": 100
+    },
+    {
+        "Name": "Headphones",
+        "Price": 150,
+        "Description": "Noise-cancelling headphones.",
+        "Stock": 30
+    }
+]
